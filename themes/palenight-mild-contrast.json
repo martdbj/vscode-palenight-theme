@@ -219,7 +219,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#697098",
+        "foreground": "#02a144",
         "fontStyle": "italic"
       }
     },
